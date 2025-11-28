@@ -2,7 +2,7 @@
 
 Bueno queria  aprender y porbar que tan efectiva y efciente era la utomatizaciond e procesos de pruebas de seguridad en Smarts Cotracts : **analizar qué contratos están moviendo tokens en la red Ethereum y evaluar rápidamente si representan un riesgo real**.
 
-ScannerUsdt reúne un conjunto de herramientas en Python que automatizan tres tareas clave del trabajo de un analista DeFi junior:
+ScannerUsdt reúne un conjunto de herramientas en Python que automatizan tres procesos importantyes a tomar en cuenta a la hora  de analizar SC  DeFi :
 
 1. **Descubrir actividad on-chain relevante** (escaneo de eventos ERC-20).  
 2. **Priorizar contratos según riesgo y volumen**.  
